@@ -9,8 +9,8 @@ class Dog
     puts 'woof!'
 
   end
-  def name=(name)
-    @name = name
+  def name=(newname)
+    @name = newname
 
   end
   def name
